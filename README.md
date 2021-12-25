@@ -30,7 +30,7 @@
 
 #### This is glance of the CitiBike workbook's story:
 
-<img src="https://public.tableau.com/app/profile/sergio.gaytan/viz/CitiBikemodifiedata/CitibiketripsAnalysis?publish=yes" width="1150"> 
+<img src="https://github.com/SeRoGaTa/bikesharing/blob/main/Resources/Citibike%20workbook.png" width="1150"> 
 
 ## Summary
 #### As I already mentioned on the results, the benefit of using this type of tool is the versatility you might have to present your data to different customers/users, since we could deliver almost anything with the graphs we have on Tableau with almost no effort at all. So, this give us a very quick response time to try to answer all our customer questions and/or inqueries.
