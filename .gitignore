@@ -3,6 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Other files to hide
+201908-citibike-tripdata.csv
+201908-citibike-tripdata_modified.csv
+CityBike.twbx
+
 # C extensions
 *.so
 
